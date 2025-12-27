@@ -6,6 +6,7 @@
 *"Designing the future of autonomous agents"*
 
 [![Visit 3D Portfolio](https://img.shields.io/badge/🌐_Visit_My_3D_Portfolio-6C5CE7?style=for-the-badge&logo=spline&logoColor=white)](https://betalgeuse.github.io/portfolio-site)
+[![Medium Blog](https://img.shields.io/badge/Medium-Blog-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@zzzaydenzz)
 
 </div>
 
@@ -65,4 +66,5 @@ I am a **Customer Success Owner & AI Engineer** based in Seoul, passionate about
 
 ## 📫 Contact
 - 📧 **Email**: starcasso@snu.ac.kr
+- 📝 **Blog**: [Medium/@zzzaydenzz](https://medium.com/@zzzaydenzz)
 - 🐙 **GitHub**: [Betalgeuse](https://github.com/Betalgeuse)
