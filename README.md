@@ -27,13 +27,13 @@
 ---
 
 ### 💼 Experience
-- **Vibers AI** | Customer Success Owner (2025.05 - 2025.12)
-- **BioResearch AI** | Research Analyst Intern (2023.05 - 2023.08)
-- **TRIDGE** | Data Science Intern (2022.07 - 2022.09)
+- **Vibers AI** | Customer Success Owner
+- **BioResearch AI** | Research Analyst Intern
+- **TRIDGE** | Data Science Intern
 
 ### 📚 Education
-- **Seoul National University** | B.S. Crop Science & Biotech / B.B.A Entrepreneurship (Expected 2027)
-- **Gwangju Science Academy** (2018 - 2021)
+- **Seoul National University** | B.S. Crop Science & Biotech / B.B.A Entrepreneurship
+- **Gwangju Science Academy**
 
 <br>
 <div align="center">
