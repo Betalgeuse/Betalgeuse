@@ -6,10 +6,15 @@
 
 <br>
 
+> **"Token usage is the new Kardashev Scale."**  
+> *AI Native Engineer | Consumed 3k+ Tokens & Counting*
+
+<br>
+
 [![Visit 3D Portfolio](https://img.shields.io/badge/🌐_Visit_My_3D_Portfolio-6C5CE7?style=for-the-badge&logo=spline&logoColor=white)](https://betalgeuse.github.io/portfolio-site)
 [![Medium Blog](https://img.shields.io/badge/Medium-Blog-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@zzzaydenzz)
-[![Threads](https://img.shields.io/badge/Threads-@luerre__ai-000000?style=for-the-badge[![Email](https://img.shields.io/badge/Email-starcasso@snu.ac.kr-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:starcasso@snu.ac.kr)logo=threads[![Email](https://img.shields.io/badge/Email-starcasso@snu.ac.kr-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:starcasso@snu.ac.kr)logoColor=white)](https://www.threads.net/@luerre_ai)
-[![Email](https://img.shields.io/badge/Email-starcasso@snu.ac.kr-D14836?style=for-the-badge[![Email](https://img.shields.io/badge/Email-starcasso@snu.ac.kr-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:starcasso@snu.ac.kr)logo=gmail[![Email](https://img.shields.io/badge/Email-starcasso@snu.ac.kr-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:starcasso@snu.ac.kr)logoColor=white)](mailto:starcasso@snu.ac.kr)
+[![Threads](https://img.shields.io/badge/Threads-@luerre__ai-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@luerre_ai)
+[![Email](https://img.shields.io/badge/Email-starcasso@snu.ac.kr-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:starcasso@snu.ac.kr)
 
 <br>
 
