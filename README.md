@@ -2,12 +2,16 @@
 
 # Sanghyuk Lee
 ### AI Orchestrator & Business Growth Engineer
-*"Designing the future of autonomous agents"*
+*"Interested in Agentic Trading & Blockchain"*
 
 <br>
 
-> **"Token usage is the new Kardashev Scale."**  
-> *AI Native Engineer | Consumed 3k+ Tokens & Counting*
+<img src="https://img.shields.io/badge/%22There_is_an_agent_for_that.%22-000000?style=for-the-badge&logoColor=white" alt="There is an agent for that" />
+
+<br>
+
+> **I focus on what matters, not what screams.**  
+> *Automation isn't a skill—it's a mindset. Learn to delegate, not just to code.*
 
 <br>
 
